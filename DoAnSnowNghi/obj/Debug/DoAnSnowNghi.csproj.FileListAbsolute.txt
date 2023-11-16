@@ -1,0 +1,40 @@
+C:\Users\ASUS\Desktop\QuanLiBanHang\DoAnSnowNghi\bin\Debug\DoAnSnowNghi.exe.config
+C:\Users\ASUS\Desktop\QuanLiBanHang\DoAnSnowNghi\bin\Debug\DoAnSnowNghi.exe
+C:\Users\ASUS\Desktop\QuanLiBanHang\DoAnSnowNghi\bin\Debug\DoAnSnowNghi.pdb
+C:\Users\ASUS\Desktop\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.Properties.Resources.resources
+C:\Users\ASUS\Desktop\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.exe
+C:\Users\ASUS\Desktop\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.pdb
+C:\Users\ASUS\Desktop\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.FrmDangNhap.resources
+C:\Users\ASUS\Desktop\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.FrmMain.resources
+C:\Users\ASUS\Desktop\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.FrmNhanVien.resources
+C:\Users\ASUS\Desktop\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.FrmHangHoa.resources
+C:\Users\ASUS\Desktop\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.FrmChatlieu.resources
+C:\Users\ASUS\Desktop\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.FrmKhachHang.resources
+C:\Users\ASUS\Desktop\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.FrmTimKiemHD.resources
+C:\Users\ASUS\Desktop\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.FrmTimKiemHHoa.resources
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.FrmChatlieu.resources
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.FrmDangNhap.resources
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.FrmHangHoa.resources
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.FrmKhachHang.resources
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.FrmMain.resources
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.FrmNhanVien.resources
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.FrmTimKiemHD.resources
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.FrmTimKiemHHoa.resources
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.exe
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.pdb
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\bin\Debug\DoAnSnowNghi.exe.config
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\bin\Debug\DoAnSnowNghi.exe
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\bin\Debug\DoAnSnowNghi.pdb
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Máy tính\QuanLiBanHang\DoAnSnowNghi\obj\Debug\DoAnSnowNghi.HoaDonBanHang.resources
